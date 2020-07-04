@@ -1,0 +1,41 @@
+﻿  dasum.c
+  daxpy.c
+  dcabs1.c
+  dcopy.c
+  ddot.c
+  dgemm.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'b_dim1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'c_dim1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'a_dim1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'c_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemm.c(17): warning C4101: 'b_offset': unreferenced local variable
+  dgemv.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemv.c(16): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dgemv.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dger.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dger.c(16): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dger.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dmyblas2.c
+  dnrm2.c
+  drot.c
+  dscal.c
+  dsymv.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dsymv.c(16): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dsymv.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dsyr2.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dsyr2.c(16): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dsyr2.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dtrsm.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsm.c(16): warning C4101: 'b_dim1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsm.c(16): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsm.c(16): warning C4101: 'a_dim1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsm.c(16): warning C4101: 'b_offset': unreferenced local variable
+  dtrsv.c
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsv.c(15): warning C4101: 'a_offset': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\cblas\dtrsv.c(15): warning C4101: 'a_dim1': unreferenced local variable
+  dzasum.c
+  dznrm2.c
+  idamax.c
+  Generating Code...
+  cblas.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\cblas\.\..\..\lib\release\cblas.lib

@@ -1,0 +1,1261 @@
+﻿  triangle.c
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3690): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3692): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3692): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3696): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3699): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3699): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3703): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3706): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3706): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3710): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3719): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3726): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3733): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3737): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3737): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3739): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3742): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3742): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3744): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3747): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3747): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3749): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3785): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3786): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3786): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3790): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3793): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3793): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3797): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3806): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3813): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3816): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3816): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3820): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3823): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3823): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3827): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3836): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3843): warning C4311: 'type cast': pointer truncation from 'vertex' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3914): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(3918): warning C4312: 'type cast': conversion from 'unsigned long' to 'void *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4048): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4052): warning C4312: 'type cast': conversion from 'unsigned long' to 'void *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4112): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4116): warning C4312: 'type cast': conversion from 'unsigned long' to 'void *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4156): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4160): warning C4312: 'type cast': conversion from 'unsigned long' to 'void *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4218): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4221): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4241): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4244): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4618): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(4620): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6748): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6748): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6751): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6751): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6841): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6841): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6859): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6859): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(6966): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7039): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7039): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7136): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7136): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7163): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7163): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7196): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7196): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7200): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7200): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7338): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7338): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7343): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7343): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7344): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7344): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7351): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7351): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7352): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7352): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7431): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7431): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7590): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7590): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7594): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7594): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7736): warning C4311: 'type cast': pointer truncation from 'void **' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7740): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7789): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7789): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7847): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7847): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7859): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7859): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7859): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7859): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7860): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7860): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7862): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7862): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7862): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7862): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7949): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7949): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7969): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7969): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7971): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7971): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7973): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7973): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7975): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7975): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7977): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7977): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7978): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7978): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7979): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7979): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7980): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7980): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7984): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7984): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7985): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7985): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7986): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7986): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7987): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7987): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7991): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7991): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7991): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7991): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7996): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7996): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7996): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(7996): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8001): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8001): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8001): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8001): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8006): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8006): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8006): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8006): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8084): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8084): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8104): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8104): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8106): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8106): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8108): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8108): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8110): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8110): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8112): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8112): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8113): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8113): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8114): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8114): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8115): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8115): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8119): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8119): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8120): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8120): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8121): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8121): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8122): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8122): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8126): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8126): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8126): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8126): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8131): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8131): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8131): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8131): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8136): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8136): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8136): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8136): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8141): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8141): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8141): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8141): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8267): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8267): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8293): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8293): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8301): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8301): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8307): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8307): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8329): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8329): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8330): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8330): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8335): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8335): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8378): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8378): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8381): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8381): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8381): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8381): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8384): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8384): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8387): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8387): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8387): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8387): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8393): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8393): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8395): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8395): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8398): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8398): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8400): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8400): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8402): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8402): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8411): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8411): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8413): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8413): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8416): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8416): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8418): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8418): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8430): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8430): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8487): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8487): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8488): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8488): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8519): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8519): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8522): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8522): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8522): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8522): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8524): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8524): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8527): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8527): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8527): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8527): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8532): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8532): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8533): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8533): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8536): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8536): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8538): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8538): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8540): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8540): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8545): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8545): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8594): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8594): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8611): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8611): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8656): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8656): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8658): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8658): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8660): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8660): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8662): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8662): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8664): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8664): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8665): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8665): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8666): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8666): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8667): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8667): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8670): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8670): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8671): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8671): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8672): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8672): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8673): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8673): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8677): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8677): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8677): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8677): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8682): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8682): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8682): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8682): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8687): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8687): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8687): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8687): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8692): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8692): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8692): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8692): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8723): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8723): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8782): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8782): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8899): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8899): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8904): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8904): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8920): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8920): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8926): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8926): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8930): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8930): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8938): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8938): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8992): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(8992): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9003): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9003): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9017): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9017): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9018): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9018): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9024): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9024): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9025): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9025): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9026): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9026): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9027): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9027): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9028): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9028): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9029): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9029): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9030): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9030): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9032): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9032): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9032): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9032): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9034): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9034): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9036): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9036): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9036): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9036): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9088): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9088): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9097): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9097): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9099): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9099): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9101): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9101): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9102): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9102): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9107): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9107): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9108): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9108): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9109): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9109): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9109): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9109): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9111): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9111): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9112): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9112): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9113): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9113): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9113): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9113): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9122): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9122): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9124): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9124): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9128): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9128): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9129): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9129): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9130): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9130): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9130): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9130): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9135): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9135): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9138): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9138): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9139): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9139): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9142): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9142): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9143): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9143): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9144): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9144): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9144): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9144): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9479): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9479): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9483): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9483): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9489): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9489): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9494): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9494): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9498): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9498): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9504): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9504): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9515): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9515): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9524): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9524): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9531): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9531): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9532): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9532): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9536): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9536): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9538): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9538): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9579): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9579): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9581): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9581): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9583): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9583): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9594): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9594): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9603): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9603): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9608): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9608): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9619): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9619): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9631): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9631): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9633): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9633): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9634): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9634): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9635): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9635): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9637): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9637): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9639): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9639): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9667): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9667): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9679): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9679): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9681): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9681): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9682): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9682): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9683): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9683): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9685): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9685): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9687): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9687): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9716): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9716): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9720): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9720): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9725): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9725): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9729): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9729): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9791): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9791): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9794): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9794): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9797): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9797): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9827): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9827): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9828): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9828): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9833): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9833): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9834): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9834): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9839): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9839): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9840): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9840): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9870): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9870): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9872): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9872): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9874): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9874): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9877): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9877): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9880): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9880): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9883): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9883): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9942): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9942): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9943): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9943): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9951): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9951): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9966): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(9966): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10159): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10159): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10163): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10163): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10167): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10167): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10171): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10171): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10177): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10177): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10181): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10181): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10186): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10186): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10204): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10204): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10788): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10788): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10843): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10843): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10846): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10846): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10849): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10849): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10889): warning C4311: 'type cast': pointer truncation from 'void *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10889): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10890): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10890): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10892): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10892): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10902): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10902): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10905): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10905): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10941): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10941): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10949): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10949): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10952): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10952): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10955): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10955): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10956): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10956): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10983): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10983): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10998): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(10998): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11402): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11402): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11403): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11403): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11414): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11414): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11419): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11419): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11423): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11423): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11513): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11513): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11529): warning C4311: 'type cast': pointer truncation from 'subseg *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11529): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11529): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11529): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11531): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11531): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11544): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11544): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11557): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11557): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11564): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11564): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11569): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11569): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11636): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11636): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11645): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11645): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11660): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11660): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11767): warning C4311: 'type cast': pointer truncation from 'triangle *' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11767): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11774): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11774): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11779): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11779): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11783): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11783): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11792): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11792): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11873): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11873): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11964): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(11964): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12060): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12060): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12065): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12065): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12195): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12195): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12208): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12208): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12215): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12215): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12228): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12228): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12231): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12231): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12289): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12289): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12296): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12296): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12322): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12322): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12329): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12329): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12391): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12391): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12400): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12400): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12403): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12403): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12611): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12611): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12617): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12619): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12619): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12622): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12623): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12623): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12644): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12644): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12647): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12647): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12703): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12703): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12718): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12718): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12720): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12720): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12722): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12731): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12731): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12733): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12733): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12749): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12749): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12773): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12773): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12797): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12797): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12801): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12809): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12809): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12814): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12814): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12817): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12825): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12825): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12842): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12842): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12914): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12914): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12937): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12937): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12939): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12939): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12942): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12953): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12953): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12961): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12961): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12973): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(12973): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13052): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13052): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13062): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13065): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13065): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13091): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13091): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13101): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13145): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13145): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13280): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13280): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13305): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13305): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13307): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13307): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13311): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13311): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13323): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13323): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13331): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13331): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13335): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13335): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13340): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13340): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13351): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13351): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13439): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13439): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13514): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13514): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13761): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13761): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13777): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(13777): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(14875): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(14875): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(14893): warning C4311: 'type cast': pointer truncation from 'subseg' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(14893): warning C4312: 'type cast': conversion from 'unsigned long' to 'subseg *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15114): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15114): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15237): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15237): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15240): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15240): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15243): warning C4311: 'type cast': pointer truncation from 'triangle' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\triangle\triangle.c(15243): warning C4312: 'type cast': conversion from 'unsigned long' to 'triangle *' of greater size
+  DBESI0.C
+  DBESI1.C
+  Generating Code...
+  CorotCrdTransfWarping2d.cpp
+  CatenaryCable.cpp
+  ComponentElement2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(897): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(902): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(903): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(909): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(910): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(911): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(918): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(923): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(924): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(930): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(931): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\componentelement\componentelement2d.cpp(932): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DispBeamColumn3dThermal.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1639): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1645): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1647): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1651): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1793): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1799): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1801): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(1805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ElastomericBearingBoucWenMod3d.cpp
+  Element.cpp
+  ElementalLoad.cpp
+  ElasticForceBeamColumnWarping2d.cpp
+  ForceBeamColumn2dThermal.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2547): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2553): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2555): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2559): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2972): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2978): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2980): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2dthermal.cpp(2984): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumnWarping2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(2711): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(2717): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(2719): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(2723): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(3198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(3204): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(3206): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumnwarping2d.cpp(3210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FPBearingPTV.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\fpbearingptv.cpp(1237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Information.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\information.cpp(170): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\information.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MVLEM.cpp
+  SFI_MVLEM.cpp
+  BackgroundFixData.cpp
+  BackgroundGrid.cpp
+  BackgroundMesh.cpp
+  BackgroundStructure.cpp
+  LineMesh.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\linemesh.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Particle.cpp
+  Generating Code...
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumnwarping2d.cpp(1657): warning C4715: 'ElasticForceBeamColumnWarping2d::setParameter': not all control paths return a value
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3dthermal.cpp(907): warning C4700: uninitialized local variable 'dataMixV' used
+  Compiling...
+  ParticleGroup.cpp
+  PFEMElement2DFIC.cpp
+  PFEMElement2Dmini.cpp
+  TclPFEMCommands.cpp
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4302: 'type cast': truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+  TriangleMeshGenerator.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\trianglemeshgenerator.cpp(78): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\trianglemeshgenerator.cpp(84): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\trianglemeshgenerator.cpp(113): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\trianglemeshgenerator.cpp(114): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\trianglemeshgenerator.cpp(165): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TriMesh.cpp
+  ShellANDeS.cpp
+  ShellDKGQ.cpp
+  ShellDKGT.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shelldkgt.cpp(1840): warning C4101: 'pp': unreferenced local variable
+  ShellMITC4Thermal.cpp
+  ShellMITC9.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellmitc9.cpp(594): warning C4101: 'node': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellmitc9.cpp(1010): warning C4101: 'node': unreferenced local variable
+  ShellNLDKGQ.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgq.cpp(565): warning C4101: 'pp': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgq.cpp(565): warning C4101: 'qq': unreferenced local variable
+  ShellNLDKGQThermal.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgqthermal.cpp(582): warning C4101: 'pp': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgqthermal.cpp(582): warning C4101: 'qq': unreferenced local variable
+  ShellNLDKGT.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgt.cpp(571): warning C4101: 'pp': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgt.cpp(571): warning C4101: 'qq': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\shell\shellnldkgt.cpp(1736): warning C4101: 'pp': unreferenced local variable
+  TclElementCommands.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\tclelementcommands.cpp(1400): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\tclelementcommands.cpp(1422): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  N4BiaxialTruss.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\n4biaxialtruss.cpp(1323): warning C4101: 'strain': unreferenced local variable
+  QuadBeamEmbedContact.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\quadbeamembedcontact.cpp(717): warning C4101: 'normN': unreferenced local variable
+  WrapperElement.cpp
+  CorotTruss.cpp
+  CorotTruss2.cpp
+  Generating Code...
+  Compiling...
+  CorotTrussSection.cpp
+  Truss.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1025): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1026): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1031): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1032): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1037): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1038): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1044): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\truss.cpp(1045): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Truss2.cpp
+  TrussSection.cpp
+  TclFeapElementCommand.cpp
+  fElement.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(495): warning C4101: 'NH2': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(495): warning C4101: 'NH1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(495): warning C4101: 'NH3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(536): warning C4101: 'NH2': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(536): warning C4101: 'NH1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(536): warning C4101: 'NH3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(622): warning C4101: 'NH2': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(622): warning C4101: 'NH1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(622): warning C4101: 'NH3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(667): warning C4101: 'NH2': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(667): warning C4101: 'NH1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(667): warning C4101: 'NH3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(758): warning C4101: 'NH2': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(758): warning C4101: 'NH1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\feap\felement.cpp(758): warning C4101: 'NH3': unreferenced local variable
+  fElmt02.cpp
+  AC3D8HexWithSensitivity.cpp
+  ASI3D8QuadWithSensitivity.cpp
+  AV3D4QuadWithSensitivity.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\xmuelements\av3d4quadwithsensitivity.cpp(48): warning C4101: 'numNodes': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\xmuelements\av3d4quadwithsensitivity.cpp(48): warning C4101: 'eleID': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\xmuelements\av3d4quadwithsensitivity.cpp(50): warning C4101: 'i': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\xmuelements\av3d4quadwithsensitivity.cpp(49): warning C4101: 'nodes': unreferenced local variable
+  VS3D4QuadWithSensitivity.cpp
+  CoupledZeroLength.cpp
+  TclZeroLength.cpp
+  ZeroLength.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\zerolength\zerolength.cpp(1156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\zerolength\zerolength.cpp(1158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ZeroLengthContact2D.cpp
+  ZeroLengthContact3D.cpp
+  ZeroLengthContactNTS2D.cpp
+  ZeroLengthImpact3D.cpp
+  ZeroLengthInterface2D.cpp
+  ZeroLengthND.cpp
+  Generating Code...
+e:\ddr\rf_os_material_newbam\opensees\src\element\truss\trusssection.cpp(1446): warning C4700: uninitialized local variable 'stressSensitivity' used
+  Compiling...
+  ZeroLengthRocking.cpp
+  ZeroLengthSection.cpp
+  TclBeamWithHingesBuilder.cpp
+  CorotCrdTransf2d.cpp
+  CorotCrdTransf3d.cpp
+  CrdTransf.cpp
+  LinearCrdTransf2d.cpp
+  LinearCrdTransf3d.cpp
+  PDeltaCrdTransf2d.cpp
+  PDeltaCrdTransf3d.cpp
+  TclGeomTransfCommand.cpp
+  ConstantPressureVolumeQuad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\fournodequad\constantpressurevolumequad.cpp(455): warning C4101: 'p': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\fournodequad\constantpressurevolumequad.cpp(455): warning C4101: 'q': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\fournodequad\constantpressurevolumequad.cpp(915): warning C4101: 'p': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\fournodequad\constantpressurevolumequad.cpp(915): warning C4101: 'q': unreferenced local variable
+  EnhancedQuad.cpp
+  FourNodeQuad.cpp
+  FourNodeQuad3d.cpp
+  FourNodeQuadWithSensitivity.cpp
+  NineNodeMixedQuad.cpp
+  TclFourNodeQuadCommand.cpp
+  ElasticBeam2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(866): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(871): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(872): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(879): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(880): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(887): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(892): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(893): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(899): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(900): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam2d.cpp(901): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ElasticBeam3d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam3d.cpp(999): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam3d.cpp(1000): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam3d.cpp(1005): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\elasticbeamcolumn\elasticbeam3d.cpp(1006): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  ElasticTimoshenkoBeam2d.cpp
+  ElasticTimoshenkoBeam3d.cpp
+  ModElasticBeam2d.cpp
+  TclElasticBeamCommand.cpp
+  BbarBrick.cpp
+  BbarBrickWithSensitivity.cpp
+  Brick.cpp
+  TclBrickCommand.cpp
+  TclTwenty_Node_BrickCommand.cpp
+  Twenty_Node_Brick.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(429): warning C4101: 'k': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(429): warning C4101: 'k1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(572): warning C4101: 'jk': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(572): warning C4101: 'ik': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(572): warning C4101: 'ib': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(572): warning C4101: 'jb': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(810): warning C4101: 'm': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(810): warning C4101: 'k': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(810): warning C4101: 'jk': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(810): warning C4101: 'ik': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(921): warning C4101: 'ik': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(921): warning C4101: 'j': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(993): warning C4101: 'jk': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(1170): warning C4101: 'ik': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(1298): warning C4101: 'jk': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\brick\twenty_node_brick.cpp(1298): warning C4101: 'ik': unreferenced local variable
+  shp3d.cpp
+  DispBeamColumn2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1394): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1400): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1402): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1705): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1711): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1713): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2d.cpp(1717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DispBeamColumn2dWithSensitivity.cpp
+  DispBeamColumn3d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1405): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1407): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1563): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1569): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1571): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn3d.cpp(1575): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DispBeamColumn3dWithSensitivity.cpp
+  BeamColumnJoint2d.cpp
+  BeamColumnJoint3d.cpp
+  ElasticTubularJoint.cpp
+  Joint2D.cpp
+  Joint3D.cpp
+  Generating Code...
+  Compiling...
+  MP_Joint2D.cpp
+  MP_Joint3D.cpp
+  TclBeamColumnJointCommand.cpp
+  TclJoint2dCommand.cpp
+  TclJoint3dCommand.cpp
+  BilinearCyclic.cpp
+  CyclicModel.cpp
+  Elastic2DGNL.cpp
+  Inelastic2DYS01.cpp
+  Inelastic2DYS02.cpp
+  Inelastic2DYS03.cpp
+  InelasticYS2DGNL.cpp
+  LinearCyclic.cpp
+  QuadraticCyclic.cpp
+  TclCyclicModelCommands.cpp
+  TclElement2dGNL.cpp
+  TclElement2dYS.cpp
+  UpdatedLagrangianBeam2D.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\updatedlagrangianbeamcolumn\updatedlagrangianbeam2d.cpp(815): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\updatedlagrangianbeamcolumn\updatedlagrangianbeam2d.cpp(817): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\updatedlagrangianbeamcolumn\updatedlagrangianbeam2d.cpp(819): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ElasticForceBeamColumn2d.cpp
+  ElasticForceBeamColumn3d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1304): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1544): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1550): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1552): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn3d.cpp(1556): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\elasticforcebeamcolumn2d.cpp(1396): warning C4715: 'ElasticForceBeamColumn2d::setParameter': not all control paths return a value
+  Compiling...
+  ForceBeamColumn2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2495): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2501): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2503): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2507): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2922): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2928): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2930): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn2d.cpp(2934): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumn3d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn3d.cpp(3167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn3d.cpp(3173): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn3d.cpp(3175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumn3d.cpp(3179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumnCBDI2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3028): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3030): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3034): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3510): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3516): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3518): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\forcebeamcolumn\forcebeamcolumncbdi2d.cpp(3522): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TclForceBeamColumnCommand.cpp
+  BeamIntegration.cpp
+  CompositeSimpsonBeamIntegration.cpp
+  DistHingeIntegration.cpp
+  FixedLocationBeamIntegration.cpp
+  HingeEndpointBeamIntegration.cpp
+  HingeMidpointBeamIntegration.cpp
+  HingeRadauBeamIntegration.cpp
+  HingeRadauTwoBeamIntegration.cpp
+  LegendreBeamIntegration.cpp
+  LobattoBeamIntegration.cpp
+  LowOrderBeamIntegration.cpp
+  MidDistanceBeamIntegration.cpp
+  NewtonCotesBeamIntegration.cpp
+  RadauBeamIntegration.cpp
+  RegularizedHingeIntegration.cpp
+  TrapezoidalBeamIntegration.cpp
+  Generating Code...
+  Compiling...
+  UserDefinedBeamIntegration.cpp
+  UserDefinedHingeIntegration.cpp
+  MatrixUtil.cpp
+  BBarBrickUP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\bbarbrickup.cpp(1099): warning C4101: 'e': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\bbarbrickup.cpp(1099): warning C4101: 'n': unreferenced local variable
+  BBarFourNodeQuadUP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\bbarfournodequadup.cpp(785): warning C4101: 'k': unreferenced local variable
+  BrickUP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\brickup.cpp(1148): warning C4101: 'e': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\brickup.cpp(1148): warning C4101: 'n': unreferenced local variable
+  Nine_Four_Node_QuadUP.cpp
+  TclFourNodeQuadUPCommand.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\tclfournodequadupcommand.cpp(72): warning C4101: 'type': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\tclfournodequadupcommand.cpp(650): warning C4101: 'type': unreferenced local variable
+  Twenty_Eight_Node_BrickUP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(823): warning C4101: 'k': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(823): warning C4101: 'k1': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(1546): warning C4101: 'j': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2451): warning C4474: 'sprintf' : too many arguments passed for format string
+  e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2451): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2453): warning C4474: 'sprintf' : too many arguments passed for format string
+  e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2453): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2455): warning C4474: 'sprintf' : too many arguments passed for format string
+  e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2455): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2458): warning C4474: 'sprintf' : too many arguments passed for format string
+  e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\twenty_eight_node_brickup.cpp(2458): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  shp3dv.cpp
+  DispBeamColumn2dInt.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumnint\dispbeamcolumn2dint.cpp(2144): warning C4101: 'V': unreferenced local variable
+  DispBeamColumn2dThermal.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1673): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1679): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1681): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1685): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1862): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1868): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1870): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumn\dispbeamcolumn2dthermal.cpp(1874): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FiberSection2dInt.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumnint\fibersection2dint.cpp(1401): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumnint\fibersection2dint.cpp(1899): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumnint\fibersection2dint.cpp(2431): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\dispbeamcolumnint\fibersection2dint.cpp(2835): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LinearCrdTransf2dInt.cpp
+  TclDispBeamColumnIntCommand.cpp
+  GenericClient.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\generic\genericclient.cpp(550): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\generic\genericclient.cpp(567): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\generic\genericclient.cpp(632): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GenericCopy.cpp
+  TclGenericClientCommand.cpp
+  TclGenericCopyCommand.cpp
+  TclTwoNodeLinkCommand.cpp
+  Generating Code...
+  Compiling...
+  TwoNodeLink.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\twonodelink\twonodelink.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Actuator.cpp
+  ActuatorCorot.cpp
+  Adapter.cpp
+  TclActuatorCommand.cpp
+  TclActuatorCorotCommand.cpp
+  TclAdapterCommand.cpp
+  ElastomericBearingBoucWen2d.cpp
+  ElastomericBearingBoucWen3d.cpp
+  ElastomericBearingPlasticity2d.cpp
+  ElastomericBearingPlasticity3d.cpp
+  ElastomericBearingUFRP2d.cpp
+  ElastomericX.cpp
+  HDR.cpp
+  LeadRubberX.cpp
+  TclElastomericBearingBoucWenCommand.cpp
+  TclElastomericBearingPlasticityCommand.cpp
+  TclElastomericBearingUFRPCommand.cpp
+  FlatSliderSimple2d.cpp
+  FlatSliderSimple3d.cpp
+  Generating Code...
+  Compiling...
+  MultiFP2d.cpp
+  RJWatsonEQS2d.cpp
+  RJWatsonEQS3d.cpp
+  SingleFPSimple2d.cpp
+  SingleFPSimple3d.cpp
+  TFP_Bearing.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tfp_bearing.cpp(70): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tfp_bearing.cpp(703): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tfp_bearing.cpp(950): warning C4101: 'strain': unreferenced local variable
+  TFP_Bearing2d.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tfp_bearing2d.cpp(597): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tfp_bearing2d.cpp(842): warning C4101: 'strain': unreferenced local variable
+  TPB1D.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\frictionbearing\tpb1d.cpp(648): warning C4101: 'outputData': unreferenced local variable
+  TclFlatSliderCommand.cpp
+  TclRJWatsonEQSCommand.cpp
+  TclSingleFPCommand.cpp
+  TripleFrictionPendulum.cpp
+  Coulomb.cpp
+  FrictionModel.cpp
+  FrictionResponse.cpp
+  TclModelBuilderFrictionModelCommand.cpp
+  VelDepMultiLinear.cpp
+  VelDependent.cpp
+  VelNormalFrcDep.cpp
+  VelPressureDep.cpp
+  Generating Code...
+  Compiling...
+  PY_Macro2D.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pymacro\py_macro2d.cpp(313): warning C4101: 'Tznew': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\pymacro\py_macro2d.cpp(313): warning C4101: 'Tzold': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\pymacro\py_macro2d.cpp(313): warning C4101: 'f_': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\pymacro\py_macro2d.cpp(313): warning C4101: 'f': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\pymacro\py_macro2d.cpp(457): warning C4101: 'strain': unreferenced local variable
+  SurfaceLoad.cpp
+  BeamContact2D.cpp
+  BeamContact2Dp.cpp
+  BeamContact3D.cpp
+  BeamContact3Dp.cpp
+  BeamEndContact3D.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\beamendcontact3d.cpp(345): warning C4101: 'j': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\beamendcontact3d.cpp(345): warning C4101: 'i': unreferenced local variable
+  BeamEndContact3Dp.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\beamendcontact3dp.cpp(339): warning C4101: 'j': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\beamendcontact3dp.cpp(339): warning C4101: 'i': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\beamendcontact3dp.cpp(512): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Brick8FiberOverlay.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\uwelements\brick8fiberoverlay.cpp(554): warning C4101: 'strain': unreferenced local variable
+  PileToe3D.cpp
+  Quad4FiberOverlay.cpp
+  SSPbrick.cpp
+  SSPbrickUP.cpp
+  SSPquad.cpp
+  SSPquadUP.cpp
+  SimpleContact2D.cpp
+  SimpleContact3D.cpp
+  Tri31.cpp
+  R3vectors.cpp
+  ShellMITC4.cpp
+  Generating Code...
+  Compiling...
+  PFEMElement2D.cpp
+  PFEMElement2DBubble.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dbubble.cpp(590): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dbubble.cpp(591): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PFEMElement2DCompressible.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dcompressible.cpp(1459): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dcompressible.cpp(1460): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dcompressible.cpp(1472): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemelement2dcompressible.cpp(1473): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PFEMElement3D.cpp
+  PFEMMesher2D.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher2d.cpp(791): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher2d.cpp(819): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher2d.cpp(993): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher2d.cpp(1570): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher2d.cpp(1651): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PFEMMesher3D.cpp
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4302: 'type cast': truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+e:\ddr\rf_os_material_newbam\opensees\other\tetgen1.4.3\tetgen.h(3357): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(117): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(126): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(138): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(153): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(198): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(220): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(267): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(275): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\element\pfemelement\pfemmesher3d.cpp(589): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TclModelBuilder_addPFEMElement.cpp
+  KikuchiBearing.cpp
+  MultipleNormalSpring.cpp
+  MultipleShearSpring.cpp
+  YamamotoBiaxialHDR.cpp
+  NewElement.cpp
+  Generating Code...
+  FourNodeQuadUP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\element\up-ucsd\fournodequadup.cpp(789): warning C4101: 'k': unreferenced local variable
+  element.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\element\.\..\..\lib\release\element.lib

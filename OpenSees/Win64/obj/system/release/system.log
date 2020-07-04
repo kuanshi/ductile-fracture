@@ -1,0 +1,84 @@
+﻿  DomainSolver.cpp
+  EigenSOE.cpp
+  EigenSolver.cpp
+  LinearSOE.cpp
+  LinearSOESolver.cpp
+  PFEMSolver_Umfpack.cpp
+  Solver.cpp
+  SystemOfEqn.cpp
+  DistributedProfileSPDLinSOE.cpp
+  ProfileSPDLinDirectSolver.cpp
+  ProfileSPDLinSOE.cpp
+  ProfileSPDLinSolver.cpp
+  ProfileSPDLinSubstrSolver.cpp
+  SProfileSPDLinSOE.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(334): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(356): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(385): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(391): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(397): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsoe.cpp(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SProfileSPDLinSolver.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(367): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\profilespd\sprofilespdlinsolver.cpp(426): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SymSparseLinSOE.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\sparsesym\symsparselinsoe.cpp(514): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  SymSparseLinSolver.cpp
+  BandGenLinLapackSolver.cpp
+  BandGenLinSOE.cpp
+  BandGenLinSolver.cpp
+  Generating Code...
+  Compiling...
+  DistributedBandGenLinSOE.cpp
+  BandSPDLinLapackSolver.cpp
+  BandSPDLinSOE.cpp
+  BandSPDLinSolver.cpp
+  DistributedBandSPDLinSOE.cpp
+  FullGenEigenSOE.cpp
+  FullGenEigenSolver.cpp
+  FullGenLinLapackSolver.cpp
+  FullGenLinSOE.cpp
+  FullGenLinSolver.cpp
+  UmfpackGenLinSOE.cpp
+  UmfpackGenLinSolver.cpp
+  PFEMCompressibleLinSOE.cpp
+  PFEMCompressibleSolver.cpp
+  PFEMLinSOE.cpp
+  PFEMSolver.cpp
+  SparseGenColLinSOE.cpp
+  SparseGenColLinSolver.cpp
+  SparseGenRowLinSOE.cpp
+  SparseGenRowLinSolver.cpp
+  Generating Code...
+  Compiling...
+  SuperLU.cpp
+  ArpackSOE.cpp
+  ArpackSolver.cpp
+  SymBandEigenSOE.cpp
+  SymBandEigenSolver.cpp
+  DiagonalDirectSolver.cpp
+  DiagonalSOE.cpp
+  DiagonalSolver.cpp
+  DistributedDiagonalSOE.cpp
+  DistributedDiagonalSolver.cpp
+  Generating Code...
+  grcm.c
+  nest.c
+  newordr.c
+  nmat.c
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\sparsesym\nmat.c(126): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\sparsesym\nmat.c(205): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\system_of_eqn\linearsoe\sparsesym\nmat.c(357): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  nnsim.c
+  symbolic.c
+  tim.c
+  utility.c
+  Generating Code...
+  system.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\system\.\..\..\lib\release\system.lib

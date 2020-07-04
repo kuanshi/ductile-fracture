@@ -1,0 +1,54 @@
+﻿  TclPlaneStressMaterialTester.cpp
+  TclFeViewer.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(309): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(328): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(338): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(626): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(664): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(705): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(738): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(827): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(869): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(905): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclfeviewer.cpp(924): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TclModelBuilder.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 'locY4': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 'locY6': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 't4': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 'locY8': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 'locY5': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 'locY3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 'locY9': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 'locY7': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 't9': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 't6': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 't7': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 't3': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2391): warning C4101: 't8': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(2390): warning C4101: 't5': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(4331): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(4333): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(4501): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\tcl\tclmodelbuilder.cpp(4503): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TclSectionTester.cpp
+  TclUniaxialMaterialTester.cpp
+  TclVideoPlayer.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\tclvideoplayer.cpp(203): warning C4101: 'mode': unreferenced local variable
+  commands.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(690): warning C4101: 'mode': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(689): warning C4101: 'result': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(685): warning C4101: 'chan': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(3340): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(4997): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(5065): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(7620): warning C4101: 'secNum': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(7684): warning C4101: 'secNum': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(7748): warning C4101: 'secNum': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\tcl\commands.cpp(8868): warning C4390: ';': empty controlled statement found; is this the intent?
+  elementAPI_TCL.cpp
+  myCommands.cpp
+  Generating Code...
+  tcl.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\tcl\.\..\..\lib\release\tcl.lib

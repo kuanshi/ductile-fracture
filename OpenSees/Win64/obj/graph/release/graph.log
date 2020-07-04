@@ -1,0 +1,33 @@
+﻿  AMDNumberer.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\graph\numberer\amdnumberer.cpp(79): warning C4101: 'Info': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\graph\numberer\amdnumberer.cpp(78): warning C4101: 'Control': unreferenced local variable
+  ArrayGraph.cpp
+  ArrayVertexIter.cpp
+  DOF_Graph.cpp
+  DOF_GroupGraph.cpp
+  Graph.cpp
+  GraphNumberer.cpp
+  MyRCM.cpp
+  RCM.cpp
+  SimpleNumberer.cpp
+  Vertex.cpp
+  VertexIter.cpp
+  Generating Code...
+  amd_1.c
+  amd_2.c
+e:\ddr\rf_os_material_newbam\opensees\other\amd\amd_2.c(603): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  amd_aat.c
+e:\ddr\rf_os_material_newbam\opensees\other\amd\amd_aat.c(180): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+  amd_control.c
+  amd_defaults.c
+  amd_dump.c
+  amd_global.c
+  amd_info.c
+  amd_order.c
+e:\ddr\rf_os_material_newbam\opensees\other\amd\amd_order.c(186): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  amd_post_tree.c
+  amd_postorder.c
+  amd_preprocess.c
+  amd_valid.c
+  Generating Code...
+  graph.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\graph\.\..\..\lib\release\graph.lib

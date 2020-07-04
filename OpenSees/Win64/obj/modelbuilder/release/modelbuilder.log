@@ -1,0 +1,7 @@
+﻿  Block2D.cpp
+  Block3D.cpp
+  ModelBuilder.cpp
+  PlaneFrame.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\modelbuilder\planeframe.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  modelbuilder.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\modelbuilder\.\..\..\lib\release\modelbuilder.lib

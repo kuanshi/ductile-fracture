@@ -1,0 +1,143 @@
+﻿  LoadFactorParameter.cpp
+  Beam2dPartialUniformLoad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam2dpartialuniformload.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam2dpartialuniformload.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Beam3dThermalAction.cpp
+  NodalThermalAction.cpp
+  ShellThermalAction.cpp
+  ThermalActionWrapper.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\thermalactionwrapper.cpp(344): warning C4101: 'r5': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\thermalactionwrapper.cpp(344): warning C4101: 'r4': unreferenced local variable
+  NodalLoad.cpp
+  Node.cpp
+  Domain.cpp
+  SingleDomAllSP_Iter.cpp
+  SingleDomEleIter.cpp
+  SingleDomMP_Iter.cpp
+  SingleDomNodIter.cpp
+  SingleDomPC_Iter.cpp
+  SingleDomParamIter.cpp
+  SingleDomSP_Iter.cpp
+  PathTimeSeriesThermal.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseriesthermal.cpp(263): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseriesthermal.cpp(438): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseriesthermal.cpp(439): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SimpsonTimeSeriesIntegrator.cpp
+  Subdomain.cpp
+  SubdomainNodIter.cpp
+  Generating Code...
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseriesthermal.cpp(263): warning C4172: returning address of local variable or temporary
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\thermalactionwrapper.cpp(327): warning C4172: returning address of local variable or temporary: data
+  Compiling...
+  DomainComponent.cpp
+  ElementParameter.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\elementparameter.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\elementparameter.cpp(52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\elementparameter.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ElementStateParameter.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\elementstateparameter.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\elementstateparameter.cpp(171): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  InitialStateParameter.cpp
+  MatParameter.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\matparameter.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\component\matparameter.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MaterialStageParameter.cpp
+  NodeResponseParameter.cpp
+  Parameter.cpp
+  RVParameter.cpp
+  TclParameterCommands.cpp
+  TclUpdateMaterialCommand.cpp
+  Beam2dThermalAction.cpp
+  ElementalLoadIter.cpp
+  Load.cpp
+  NodalLoadIter.cpp
+  SelfWeight.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\selfweight.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SurfaceLoader.cpp
+  Beam2dPointLoad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam2dpointload.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Beam2dTempLoad.cpp
+  Beam2dUniformLoad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam2duniformload.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam2duniformload.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Beam3dPointLoad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam3dpointload.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Beam3dUniformLoad.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\load\beam3duniformload.cpp(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BrickSelfWeight.cpp
+  ImposedMotionSP.cpp
+  ImposedMotionSP1.cpp
+  MP_Constraint.cpp
+  Pressure_Constraint.cpp
+  RigidBeam.cpp
+  RigidDiaphragm.cpp
+  RigidRod.cpp
+  SP_Constraint.cpp
+  EarthquakePattern.cpp
+  FireLoadPattern.cpp
+  LoadPattern.cpp
+  LoadPatternIter.cpp
+  MultiSupportPattern.cpp
+  PeerNGAMotion.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peerngamotion.cpp(311): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peerngamotion.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peerngamotion.cpp(437): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peerngamotion.cpp(438): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TclPatternCommand.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\tclpatterncommand.cpp(519): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UniformExcitation.cpp
+  DRMBoundaryLayerDecorator.cpp
+  Generating Code...
+  Compiling...
+  DRMInputHandler.cpp
+  DRMLoadPattern.cpp
+  DRMLoadPatternWrapper.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\drmloadpatternwrapper.cpp(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\drmloadpatternwrapper.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GeometricBrickDecorator.cpp
+  Mesh3DSubdomain.cpp
+  PlaneDRMInputHandler.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\planedrminputhandler.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\planedrminputhandler.cpp(583): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\planedrminputhandler.cpp(584): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\drm\planedrminputhandler.cpp(589): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GroundMotion.cpp
+  GroundMotionRecord.cpp
+  InterpolatedGroundMotion.cpp
+  TclGroundMotionCommand.cpp
+  ConstantSeries.cpp
+  DiscretizedRandomProcessSeries.cpp
+  LinearSeries.cpp
+  PathSeries.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathseries.cpp(354): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathseries.cpp(474): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathseries.cpp(475): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathseries.cpp(476): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PathTimeSeries.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseries.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseries.cpp(478): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseries.cpp(487): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\pathtimeseries.cpp(488): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PeerMotion.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peermotion.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peermotion.cpp(390): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peermotion.cpp(391): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\domain\pattern\peermotion.cpp(392): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PulseSeries.cpp
+  RectangularSeries.cpp
+  SimulatedRandomProcessSeries.cpp
+  TclSeriesCommand.cpp
+  Generating Code...
+  Compiling...
+  TclSeriesIntegratorCommand.cpp
+  TimeSeries.cpp
+  TimeSeriesIntegrator.cpp
+  TrapezoidalTimeSeriesIntegrator.cpp
+  TriangleSeries.cpp
+  TrigSeries.cpp
+  MeshRegion.cpp
+  TclRegionCommands.cpp
+  Generating Code...
+  domain.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\domain\.\..\..\lib\release\domain.lib

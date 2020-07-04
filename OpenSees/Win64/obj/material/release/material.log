@@ -1,0 +1,6 @@
+﻿  DuctileFracture.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\material\uniaxial\ductilefracture.cpp(707): warning C4101: 'res': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\material\uniaxial\ductilefracture.cpp(713): warning C4101: 'res': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\material\uniaxial\ductilefracture.cpp(702): warning C4700: uninitialized local variable 'res' used
+e:\ddr\rf_os_material_newbam\opensees\src\material\uniaxial\ductilefracture.cpp(186): warning C4715: 'OPS_DuctileFracture': not all control paths return a value
+  material.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\material\.\..\..\lib\release\material.lib

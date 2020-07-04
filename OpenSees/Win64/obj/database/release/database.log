@@ -1,0 +1,15 @@
+﻿  FE_Datastore.cpp
+  FileDatastore.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(289): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(446): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(589): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(753): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(894): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(1051): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\database\filedatastore.cpp(1220): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  NEESData.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\database\neesdata.cpp(192): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TclDatabaseCommands.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\database\tcldatabasecommands.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  database.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\database\.\..\..\lib\release\database.lib

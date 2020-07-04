@@ -1,0 +1,110 @@
+﻿  colamd.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\colamd.c(1785): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\colamd.c(1786): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dcolumn_bmod.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dcolumn_bmod.c(69): warning C4101: 'alpha': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dcolumn_bmod.c(69): warning C4101: 'beta': unreferenced local variable
+  dcolumn_dfs.c
+  dcopy_to_ucol.c
+  ddiagonal.c
+  dgscon.c
+  dgsequ.c
+  dgsisx.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsisx.c(621): warning C4244: '=': conversion from 'int_t' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsisx.c(667): warning C4101: 'rhs_work': unreferenced local variable
+  dgsitrf.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(336): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(342): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(345): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(499): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(502): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(504): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(558): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(564): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgsitrf.c(567): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dgsrfs.c
+  dgssv.c
+  dgssvx.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dgssvx.c(539): warning C4244: '=': conversion from 'int_t' to 'float', possible loss of data
+  dgstrf.c
+  dgstrs.c
+  dlacon2.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dlacon2.c(138): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dlacon2.c(191): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dlangs.c
+  dlaqgs.c
+  dldperm.c
+  dmach.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmach.c(52): warning C4013: 'strncmp' undefined; assuming extern returning int
+  dmemory.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(206): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(358): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(501): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(517): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(537): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(554): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(562): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(639): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dmemory.c(640): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+  Generating Code...
+  Compiling...
+  dmyblas2.c
+  dpanel_bmod.c
+  dpanel_dfs.c
+  dpivotgrowth.c
+  dpivotL.c
+  dpruneL.c
+  dreadhb.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dreadhb.c(281): warning C4101: 'key': unreferenced local variable
+  dreadrb.c
+  dreadtriple.c
+  dsnode_bmod.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dsnode_bmod.c(103): warning C4013: 'dlsolve' undefined; assuming extern returning int
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\dsnode_bmod.c(104): warning C4013: 'dmatvec' undefined; assuming extern returning int
+  dsnode_dfs.c
+  dsp_blas2.c
+  dsp_blas3.c
+  dutil.c
+  get_perm_c.c
+  heap_relax_snode.c
+  ilu_dcolumn_dfs.c
+  ilu_dcopy_to_ucol.c
+  ilu_ddrop_row.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\ilu_ddrop_row.c(169): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ilu_dpanel_dfs.c
+  Generating Code...
+  Compiling...
+  ilu_dpivotL.c
+  ilu_dsnode_dfs.c
+  ilu_heap_relax_snode.c
+  ilu_relax_snode.c
+  input_error.c
+  lsame.c
+  mark_relax.c
+  mc64ad.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\mc64ad.c(16): warning C4005: 'min': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1301): note: see previous definition of 'min'
+  memory.c
+  mmd.c
+  qselect.c
+  relax_snode.c
+  smach.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\smach.c(52): warning C4013: 'strncmp' undefined; assuming extern returning int
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\smach.c(56): warning C4305: '=': truncation from 'double' to 'float'
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\smach.c(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\smach.c(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  sp_coletree.c
+  sp_ienv.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\sp_ienv.c(75): warning C4013: 'input_error' undefined; assuming extern returning int
+  sp_preorder.c
+  superlu_timer.c
+  util.c
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\util.c(413): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\util.c(420): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\util.c(421): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\util.c(430): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\other\superlu_5.1.1\src\util.c(435): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  xerbla.c
+  Generating Code...
+  superLU.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\superLU\.\..\..\lib\release\superLU.lib

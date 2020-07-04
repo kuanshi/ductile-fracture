@@ -1,0 +1,35 @@
+﻿  Actor.cpp
+  Channel.cpp
+  ChannelAddress.cpp
+  FEM_ObjectBroker.cpp
+  FEM_ObjectBrokerAllClasses.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\actor\objectbroker\fem_objectbrokerallclasses.cpp(552): warning C4065: switch statement contains 'default' but no 'case' labels
+e:\ddr\rf_os_material_newbam\opensees\src\actor\objectbroker\fem_objectbrokerallclasses.cpp(572): warning C4065: switch statement contains 'default' but no 'case' labels
+  HTTP.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\http.cpp(84): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\http.cpp(165): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\http.cpp(239): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\http.cpp(304): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\http.cpp(364): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Message.cpp
+  MovableObject.cpp
+  ObjectBroker.cpp
+  Shadow.cpp
+  Socket.cpp
+  TCP_Socket.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\tcp_socket.cpp(146): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\tcp_socket.cpp(902): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\tcp_socket.cpp(907): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+  UDP_Socket.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\udp_socket.cpp(145): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\udp_socket.cpp(857): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+e:\ddr\rf_os_material_newbam\opensees\src\actor\channel\udp_socket.cpp(862): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+  Generating Code...
+  actor.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\actor\.\..\..\lib\release\actor.lib

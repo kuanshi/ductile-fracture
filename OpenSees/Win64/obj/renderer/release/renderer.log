@@ -1,0 +1,99 @@
+﻿  Clipping.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Device.cpp
+  DofColorMap.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\dofcolormap.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\dofcolormap.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\dofcolormap.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\dofcolormap.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  OpenGlDevice.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\opengldevice.cpp(63): warning C4244: '=': conversion from 'LRESULT' to 'LONG', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\opengldevice.cpp(636): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\opengldevice.cpp(889): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  OpenGlRenderer.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(378): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(388): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(389): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(435): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(442): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(458): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(464): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(467): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(489): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(497): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(507): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(529): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(542): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(544): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(554): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(586): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(593): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(626): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(627): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(628): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(635): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(657): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(661): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(662): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\openglrenderer.cpp(663): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PlainMap.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\plainmap.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\plainmap.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\plainmap.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Projection.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\projection.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\projection.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\projection.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\projection.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Renderer.cpp
+  Scan.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\scan.cpp(247): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\scan.cpp(249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\scan.cpp(381): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  View.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Viewport.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\viewport.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\viewport.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WindowDevice.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\windowdevice.cpp(67): warning C4244: '=': conversion from 'LRESULT' to 'LONG', possible loss of data
+  WindowRenderer.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  db.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  gMatrix.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\renderer\gmatrix.h(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+OpenGlDevice.obj : warning LNK4006: "long __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YAJPEAUHWND__@@I_K_J@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglCreateBitmap(int,int,struct HGLRC__ * *,struct HDC__ * *,struct HBITMAP__ * *,struct tagBITMAPINFO *,unsigned char * *)" (?oglCreateBitmap@@YAHHHPEAPEAUHGLRC__@@PEAPEAUHDC__@@PEAPEAUHBITMAP__@@PEAUtagBITMAPINFO@@PEAPEAE@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "struct HWND__ * __cdecl oglCreateWindow(char *,int,int,int,int,struct HGLRC__ * *,struct HDC__ * *)" (?oglCreateWindow@@YAPEAUHWND__@@PEADHHHHPEAPEAUHGLRC__@@PEAPEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglDestroyBitmap(struct HBITMAP__ * *,struct HGLRC__ *,struct HDC__ *)" (?oglDestroyBitmap@@YAHPEAPEAUHBITMAP__@@PEAUHGLRC__@@PEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglDestroyWindow(char *,struct HWND__ *,struct HGLRC__ *,struct HDC__ *)" (?oglDestroyWindow@@YAHPEADPEAUHWND__@@PEAUHGLRC__@@PEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglSetPixelFormat(struct HDC__ *,unsigned char,unsigned long)" (?oglSetPixelFormat@@YAHPEAUHDC__@@EK@Z) already defined in WindowDevice.obj; second definition ignored
+  renderer.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\renderer\.\..\..\lib\release\renderer.lib

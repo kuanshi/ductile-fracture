@@ -1,0 +1,22 @@
+﻿  BinaryFileStream.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\handler\binaryfilestream.cpp(509): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\handler\binaryfilestream.cpp(725): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DataFileStream.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\handler\datafilestream.cpp(636): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DatabaseStream.cpp
+  DataFileStreamAdd.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\handler\datafilestreamadd.cpp(680): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DummyStream.cpp
+  FileStream.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\handler\filestream.cpp(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\handler\filestream.cpp(526): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OPS_Stream.cpp
+  StandardStream.cpp
+  TCP_Stream.cpp
+  XmlFileStream.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\handler\xmlfilestream.cpp(1090): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\handler\xmlfilestream.cpp(1324): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\handler\xmlfilestream.cpp(1350): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\handler\xmlfilestream.cpp(1378): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  handler.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\handler\.\..\..\lib\release\handler.lib

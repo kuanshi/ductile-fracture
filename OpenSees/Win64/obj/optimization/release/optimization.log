@@ -1,0 +1,12 @@
+﻿  TclOptimizationBuilder.cpp
+  Optimization.cpp
+  OptimizationDomain.cpp
+  OptimizationDomainComponent.cpp
+  ConstraintFunction.cpp
+  DesignVariable.cpp
+  DesignVariableIter.cpp
+  DesignVariablePositioner.cpp
+  DesignVariablePositionerIter.cpp
+  ObjectiveFunction.cpp
+  Generating Code...
+  optimization.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\optimization\.\..\..\lib\release\optimization.lib

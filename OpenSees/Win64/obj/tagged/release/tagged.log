@@ -1,0 +1,10 @@
+﻿  ArrayOfTaggedObjects.cpp
+  ArrayOfTaggedObjectsIter.cpp
+  MapOfTaggedObjects.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\tagged\storage\mapoftaggedobjects.cpp(64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tagged\storage\mapoftaggedobjects.cpp(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\tagged\storage\mapoftaggedobjects.cpp(133): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MapOfTaggedObjectsIter.cpp
+  TaggedObject.cpp
+  Generating Code...
+  tagged.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\tagged\.\..\..\lib\release\tagged.lib

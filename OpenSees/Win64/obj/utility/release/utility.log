@@ -1,0 +1,19 @@
+﻿  File.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\utility\file.cpp(122): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\utility\file.cpp(147): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\utility\file.cpp(272): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  FileIter.cpp
+  NeesCentral.cpp
+  PeerNGA.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\utility\peernga.cpp(216): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\utility\peernga.cpp(261): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\ddr\rf_os_material_newbam\opensees\src\utility\peernga.cpp(273): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  SimulationInformation.cpp
+  StringContainer.cpp
+  Timer.cpp
+  packages.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\api\packages.cpp(63): warning C4101: 'blnReturn': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\api\packages.cpp(64): warning C4101: 'intStat': unreferenced local variable
+e:\ddr\rf_os_material_newbam\opensees\src\api\packages.cpp(62): warning C4101: 'stFileInfo': unreferenced local variable
+  Generating Code...
+  utility.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\utility\.\..\..\lib\release\utility.lib

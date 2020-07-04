@@ -1,0 +1,3 @@
+﻿  G3string.cpp
+e:\ddr\rf_os_material_newbam\opensees\src\string\g3string.cpp(85): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  string.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\string\.\..\..\lib\release\string.lib

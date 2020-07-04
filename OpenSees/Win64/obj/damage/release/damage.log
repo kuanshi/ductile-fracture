@@ -1,0 +1,10 @@
+﻿  DamageModel.cpp
+  DamageResponse.cpp
+  HystereticEnergy.cpp
+  Kratzig.cpp
+  Mehanny.cpp
+  NormalizedPeak.cpp
+  ParkAng.cpp
+  TclModelBuilderDamageModelCommand.cpp
+  Generating Code...
+  damage.vcxproj -> E:\DDR\RF_OS_Material_newBAM\OpenSees\Win64\proj\damage\.\..\..\lib\release\damage.lib
