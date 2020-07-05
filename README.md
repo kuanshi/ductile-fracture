@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img width="60%" height="60%" src="https://github.com/kuanshi/ductile-fracture/blob/master/doc/image/RDFM_issue.png">
+ <img width="80%" height="80%" src="https://github.com/kuanshi/ductile-fracture/blob/master/doc/image/RDFM_issue.png">
 </p>
 
 <p align="center">
