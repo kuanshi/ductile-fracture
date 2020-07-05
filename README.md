@@ -14,4 +14,4 @@ The Reinforcement Ductile Fracture Model (RDFM) is developed (1) to implement th
  <img width="60%" height="60%" src="https://github.com/kuanshi/ductile-fracture/blob/master/doc/image/RDFM.png">
 </p>
 
-This repo provides the source code of the uniaxial material [DuctileFracture](https://github.com/kuanshi/ductile-fracture/blob/master/OpenSees/SRC/material/uniaxial/DuctileFracture.cpp) that can be used in [OpenSees](https://github.com/OpenSees/OpenSees). In the [example](https://github.com/kuanshi/ductile-fracture/tree/master/example) package, you can find the OpenSees execuatable file and example beam-column models to demostrate the use of the new material.
+This repo provides the source code of the uniaxial material [DuctileFracture](https://github.com/kuanshi/ductile-fracture/blob/master/OpenSees/SRC/material/uniaxial/DuctileFracture.cpp) that can be used in [OpenSees](https://github.com/OpenSees/OpenSees). In the [example](https://github.com/kuanshi/ductile-fracture/tree/master/example) package, you can find example beam-column models to demostrate the use of the new material.
