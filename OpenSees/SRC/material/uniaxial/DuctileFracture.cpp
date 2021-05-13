@@ -204,9 +204,9 @@ DuctileFracture::DuctileFracture(int tag,UniaxialMaterial &material,
   es_min = 0; // The minimum steel strain
   e_memo = 0; // The strain memory factor
 
-  if ( dmax > 1.0 || dmax < 0.0 ) {
+  if ( dmax > 10.0 || dmax < 0.0 ) {
     opserr << "DuctileFracture::DuctileFracture " <<
-      "- Dmax must be between 0 and 1, assuming Dmax = 1\n" ;
+      "- Dmax must be between 0 and 10, assuming Dmax = 1\n" ;
     Dmax    = 1;
   } else 
     Dmax    = dmax;
