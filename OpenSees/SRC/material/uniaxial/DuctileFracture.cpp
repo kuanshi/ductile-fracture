@@ -403,8 +403,9 @@ DuctileFracture::commitState(void)
 		  DI_VGM = 0;
 	  }
 	  cep_comp = cep_comp+fabs(dep);
-	  DI_MVC = exp(c_cycl*e_memo*cep_comp);
   }
+  // Move the multi-void coalescence outside (KZ - 05/13/21)
+  DI_MVC = exp(c_cycl*e_memo*cep_comp);
   
   // Compute damage index
   DI = DI_VGM*DI_MVC;
