@@ -71,8 +71,8 @@ void* OPS_DuctileFracture()
 	double k1 = 1; // necking local strain amplification (k1 = 1: no amplification) 
 	double k2 = 0; // necking local Triaxiality amplification (k2 = 0: no amplification)
 	double db = 0; // bar-diameter for buckle amplification
-	double b1 = 1000; // buckle initial-imperfection coefficient (b1 = 1000: no effect)
-	double b2 = -1000; // buckle curvature coefficient (b2 = -1000: no local buckle)
+	double b1 = 0; // buckle initial-imperfection coefficient (b1 = 0: no effect)
+	double b2 = 1000.0; // buckle curvature coefficient (b2 = 1000: no local buckle)
 	double c_dete = 0.0; // deteriroation coefficient (c_dete = 0: no deterioration)
 	numdata = 1;
 
@@ -204,9 +204,9 @@ DuctileFracture::DuctileFracture(int tag,UniaxialMaterial &material,
   es_min = 0; // The minimum steel strain
   e_memo = 0; // The strain memory factor
 
-  if ( dmax > 10.0 || dmax < 0.0 ) {
+  if ( dmax > 1.0 || dmax < 0.0 ) {
     opserr << "DuctileFracture::DuctileFracture " <<
-      "- Dmax must be between 0 and 10, assuming Dmax = 1\n" ;
+      "- Dmax must be between 0 and 1, assuming Dmax = 1\n" ;
     Dmax    = 1.0;
   } else 
     Dmax    = dmax;
@@ -254,7 +254,7 @@ DuctileFracture::DuctileFracture()
 	c_mono = 0;
 	c_cycl = 0;
 	c_symm = 0;
-	E_s = 0;
+	E_s = 29000;
 	minStrain = NEG_INF_STRAIN;
 	maxStrain = POS_INF_STRAIN;
 	esu = 0;
@@ -262,7 +262,7 @@ DuctileFracture::DuctileFracture()
 	k2 = 0;
 	db = 0;
 	b1 = 0;
-	b2 = 0;
+	b2 = 1000.0;
 	c_dete = 0;
 }
 
@@ -347,7 +347,8 @@ DuctileFracture::commitState(void)
   }
 
   if (trialStrain >= maxStrain || trialStrain <= minStrain) { 
-      Cfailed = true;
+      Cfailed = true;      
+      opserr << "DuctileFracture: material tag " << this->getTag() << " failed from excessive strain\n";
       DI = Dmax;
       return 0;
   }
@@ -403,7 +404,6 @@ DuctileFracture::commitState(void)
 	  }
 	  cep_comp = cep_comp+fabs(dep);
   }
-  // Move the multi-void coalescence outside (KZ - 05/13/21)
   DI_MVC = exp(c_cycl*e_memo*cep_comp);
   
   // Compute damage index
@@ -443,6 +443,7 @@ DuctileFracture::revertToStart(void)
 {
 
   Cfailed = false;
+  /*
   DI		= 0; // Damage index
   DI_VGM	= 0; // Void growth damage component
   DI_MVC	= 0; // Multi-void coalescence damage compoent
@@ -460,7 +461,7 @@ DuctileFracture::revertToStart(void)
   c_mono		= 0;  
   c_cycl		= 0;
   c_symm		= 0;
-  E_s			= 0;
+  E_s			= 29000;
   minStrain		= NEG_INF_STRAIN;
   maxStrain		= POS_INF_STRAIN;
   esu = 0;
@@ -468,8 +469,9 @@ DuctileFracture::revertToStart(void)
   k2 = 0;
   db = 0;
   b1 = 0;
-  b2 = 0;
+  b2 = 1000.0;
   c_dete = 0;
+  */
 
   return theMaterial->revertToStart();
 }

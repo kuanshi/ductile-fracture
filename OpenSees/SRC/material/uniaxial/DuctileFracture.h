@@ -39,7 +39,7 @@ class DuctileFracture : public UniaxialMaterial
 	 DuctileFracture(int tag, UniaxialMaterial &material,double Dmax = 1.0,
 		 double c_mono = 0.20,double c_cycl = 0.15,double c_symm = 1.30,
 		 double E_s = 29000.0,double minStrain = -1.0e16,double maxStrain =  1.0e16,
-		 double esu = 1.0e16,double k1 = 1,double k2 = 0,double db = 0,double b1 = 1000,double b2 = -1000,
+		 double esu = 1.0e16,double k1 = 1,double k2 = 0,double db = 0,double b1 = 0,double b2 = 1000,
 		 double c_dete = 0.0);
 	 DuctileFracture();
 	 ~DuctileFracture();
