@@ -98,6 +98,7 @@ class MVLEM : public Element {
   Vector getStressConcrete(void);
   Vector getStressSteel(void);
   Vector getShearFD(void);
+  Vector getSteelFractureIndex(void);
   
   // private attributes - a copy for each object of the class
   ID  externalNodes;          			// contains the id's of end nodes

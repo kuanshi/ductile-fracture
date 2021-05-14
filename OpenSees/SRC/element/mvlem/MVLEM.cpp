@@ -17,11 +17,11 @@
 // bottom of the element, and is uncoupled from the flexural modeling parameters.
 //
 // References:
-// 1) Vulcano A., Bertero V.V., and Colotti V. (1988). “Analytical Modeling of RC 
-// Structural Walls”, Proceedings, 9th World Conference on Earthquake Engineering, 
+// 1) Vulcano A., Bertero V.V., and Colotti V. (1988). ï¿½Analytical Modeling of RC 
+// Structural Wallsï¿½, Proceedings, 9th World Conference on Earthquake Engineering, 
 // V. 6, Tokyo-Kyoto, Japan, pp. 41-46.
-// 2) Orakcal K., Conte J.P., and Wallace J.W. (2004). “Flexural Modeling of 
-// Reinforced Concrete Structural Walls - Model Attributes”, ACI Structural Journal, 
+// 2) Orakcal K., Conte J.P., and Wallace J.W. (2004). ï¿½Flexural Modeling of 
+// Reinforced Concrete Structural Walls - Model Attributesï¿½, ACI Structural Journal, 
 // V. 101, No. 5, pp 688-698.
 
 #include "MVLEM.h"
@@ -1340,6 +1340,14 @@ Response *MVLEM::setResponse(const char **argv, int argc, OPS_Stream &s)
 		return theResponse = new ElementResponse(this, 6, Vector(2));
 	}
 
+	// Steel Fracture Index (KZ - 05/13/21)
+	else if (strcmp(argv[0], "Steel_Fracture_Index") == 0 || strcmp(argv[0], "steel_fracture_index") == 0) {
+
+		s.tag("ResponseType", "damage");
+
+		return theResponse = new ElementResponse(this, 7, Vector(m));
+	}
+
 	s.endTag();
 
 	return 0;
@@ -1367,6 +1375,9 @@ MVLEM::getResponse(int responseID, Information &eleInfo)
 
 	case 6:  // Shear Force-Deformtion
 		return eleInfo.setVector(this->getShearFD()); 
+
+	case 7:  // Steel Fracture Index (KZ - 05/13/21)
+		return eleInfo.setVector(this->getSteelFractureIndex()); 
 
 	default:
 
@@ -1446,4 +1457,20 @@ Vector MVLEM::getShearFD(void)
 	shearStrainStress(1) = theMaterialsShear[0]->getStress();
 
 	return shearStrainStress;
+}
+
+// Get Steel Fracture Index (KZ - 05/13/21)
+Vector MVLEM::getSteelFractureIndex(void)
+{
+	Vector steelFractureIndex(m);
+
+	for (int i = 0; i<m; i++) {
+		Information matInfo(0.0);
+		if (theMaterialsSteel[i]->getResponse(5, matInfo) == 0) {
+			const Vector &dataFI = matInfo.getData();
+			steelFractureIndex(i) = dataFI(0);
+		}
+	}
+
+	return steelFractureIndex;
 }
