@@ -207,7 +207,7 @@ DuctileFracture::DuctileFracture(int tag,UniaxialMaterial &material,
   if ( dmax > 10.0 || dmax < 0.0 ) {
     opserr << "DuctileFracture::DuctileFracture " <<
       "- Dmax must be between 0 and 10, assuming Dmax = 1\n" ;
-    Dmax    = 1;
+    Dmax    = 1.0;
   } else 
     Dmax    = dmax;
   
@@ -250,13 +250,13 @@ DuctileFracture::DuctileFracture()
 	es_min = 0; // The minimum steel strain
 	e_memo = 0; // The strain memory factor
 
-	Dmax = 0;
+	Dmax = 1.0;
 	c_mono = 0;
 	c_cycl = 0;
 	c_symm = 0;
 	E_s = 0;
-	minStrain = 0;
-	maxStrain = 0;
+	minStrain = NEG_INF_STRAIN;
+	maxStrain = POS_INF_STRAIN;
 	esu = 0;
 	k1 = 0;
 	k2 = 0;
@@ -348,7 +348,6 @@ DuctileFracture::commitState(void)
 
   if (trialStrain >= maxStrain || trialStrain <= minStrain) { 
       Cfailed = true;
-      opserr << "DuctileFracture: material tag " << this->getTag() << " failed from excessive strain\n";
       DI = Dmax;
       return 0;
   }
@@ -457,13 +456,13 @@ DuctileFracture::revertToStart(void)
   es_min = 0; // The minimum steel strain
   e_memo = 0; // The strain memory factor
   
-  Dmax			= 0;
+  Dmax			= 1.0;
   c_mono		= 0;  
   c_cycl		= 0;
   c_symm		= 0;
   E_s			= 0;
-  minStrain		= 0;
-  maxStrain		= 0;
+  minStrain		= NEG_INF_STRAIN;
+  maxStrain		= POS_INF_STRAIN;
   esu = 0;
   k1 = 0;
   k2 = 0;
